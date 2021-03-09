@@ -1,4 +1,4 @@
 #!/bin/bash
 date
 
-yum remove httpd -y
+sudo yum remove httpd -y
