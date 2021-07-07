@@ -3,4 +3,4 @@
 echo "hello" > index.html
 sudo yum remove httpd -y
 sudo yum install git
-abhcx
+echo "abhcx"
